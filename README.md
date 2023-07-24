@@ -304,15 +304,15 @@ ngx-gallery/
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/kolkov/ngx-gallery/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](https://github.com/hyahfoufi/ngx-gallery/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-Editor preferences are available in the [editor config](https://github.com/kolkov/ngx-gallery/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
+Editor preferences are available in the [editor config](https://github.com/hyahfoufi/ngx-gallery/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 
 ## Versioning
 
 For transparency into our release cycle and in striving to maintain backward compatibility, NgxGallery is maintained under [the Semantic Versioning guidelines](http://semver.org/).
 
-See [the Releases section of our project](https://github.com/kolkov/ngx-gallery/releases) for changelogs for each release version.
+See [the Releases section of our project](https://github.com/hyahfoufi/ngx-gallery/releases) for changelogs for each release version.
 
 ## Creators
 
